@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1512986977 source:d:\code blocks\new folder\project\minecraft2\random\main.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<time.h>
+	"conio.h"
+	<windows.h>
+	<fstream>
+
